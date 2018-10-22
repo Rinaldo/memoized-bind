@@ -1,0 +1,23 @@
+{
+  "name": "memoized-bind",
+  "version": "1.0.0",
+  "description": "Minimal memoized bind function for React",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": "github:Rinaldo/memoized-bind",
+  "keywords": [
+    "memoize",
+    "memoized",
+    "bind",
+    "function",
+    "react"
+  ],
+  "author": "Robert Rinaldo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Rinaldo/memoized-bind/issues"
+  },
+  "homepage": "https://github.com/Rinaldo/memoized-bind#readme"
+}
