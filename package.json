@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/Rinaldo/memoized-bind/issues"
   },
-  "homepage": "https://github.com/Rinaldo/memoized-bind#readme"
+  "homepage": "https://github.com/Rinaldo/memoized-bind#readme",
+  "devDependencies": {
+    "jest": "^23.6.0"
+  }
 }
