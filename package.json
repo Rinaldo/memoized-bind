@@ -1,6 +1,6 @@
 {
   "name": "memoized-bind",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Minimal memoized bind function for React",
   "main": "index.js",
   "scripts": {
@@ -21,6 +21,6 @@
   },
   "homepage": "https://github.com/Rinaldo/memoized-bind#readme",
   "devDependencies": {
-    "jest": "^23.6.0"
+    "jest": "^27.0.4"
   }
 }
